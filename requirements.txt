@@ -1,0 +1,4 @@
+chromadb==0.4.22
+langchain==0.1.6
+langchain-community==0.0.19
+llama_cpp_python==0.2.44
